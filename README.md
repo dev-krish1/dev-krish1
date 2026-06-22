@@ -153,7 +153,7 @@ I’m <b>Uday Bodana,</b> a <b>Full Stack Developer</b> focused on building clea
 
 <div align="center">
 
-<img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaybodana-dev&layout=compact&bg_color=0D1117&title_color=00f2fe&text_color=ffffff&icon_color=00f2fe&border_radius=15" alt="Most Used Languages" width="45%" /><img  height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=udaybodana-dev&background=0D1117&ring=00f2fe&fire=00f2fe&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=7dd3fc&border_radius=15" alt="GitHub Streak" width="45%" />
+<img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaybodana-dev&layout=compact&bg_color=0D1117&hide_border=true&title_color=00f2fe&text_color=ffffff&icon_color=00f2fe&border_radius=15" alt="Most Used Languages" width="45%" /><img  height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=udaybodana-dev&background=0D1117&hide_border=true&ring=00f2fe&fire=00f2fe&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=7dd3fc&border_radius=15" alt="GitHub Streak" width="45%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaybodana-dev&bg_color=0d1117&color=00f2fe&line=00f2fe&point=00f2fe&area=true&area_color=1f2335&title_color=00f2fe&text_color=ffffff&hide_border=true&height=300" />
 
 </div>
